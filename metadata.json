@@ -1,0 +1,6 @@
+{
+  "name": "Botanica Rx — Pharmacy Management & Clinical Intelligence",
+  "description": "Multi-branch pharmacy POS, inventory, debt ledger, smart invoice studio, access control, and Gemini AI clinical & business intelligence for PC and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
